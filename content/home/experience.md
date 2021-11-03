@@ -27,7 +27,7 @@ experience:
     company_url: 'www.hercodecamp.com'
     company_logo: 
     location: Toronto, ON
-    date_start: 'December 1, 2018'
+    date_start: December 1, 2018
     date_end: ''
     description:
   - title: Research Intern
@@ -35,8 +35,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Seattle, WA
-    date_start: 'March 1, 2021'
-    date_end: 'June 1, 2021'
+    date_start: March 1, 2021
+    date_end: June 1, 2021
     description:
   - title: Spark/Scala Developer
     company: Allstate Insurance Company
