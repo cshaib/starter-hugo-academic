@@ -27,7 +27,7 @@ experience:
     company_url: 'www.hercodecamp.com'
     company_logo: 
     location: Toronto, ON
-    date_start: 'Jan 1, 2019'
+    date_start: ''
     date_end: ''
     description:
   - title: Research Intern
@@ -35,32 +35,32 @@ experience:
     company_url: ''
     company_logo: 
     location: Seattle, WA
-    date_start: Mar 1, 2021
-    date_end: Jun 1, 2021
+    date_start: ''
+    date_end: ''
     description:
   - title: Spark/Scala Developer
     company: Allstate Insurance Company
     company_url: ''
     company_logo: 
     location: Dallas, TX
-    date_start: 'May 1, 2020'
-    date_end: 'Mar 1, 2021'
+    date_start: ''
+    date_end: ''
     description:
   - title: Data Scientist I
     company: The Hospital for Sick Children
     company_url: ''
     company_logo: 
     location: Toronto, ON
-    date_start: 'May 1, 2020'
-    date_end: 'Feb 1, 2021'
+    date_start: ''
+    date_end: ''
     description:
   - title: Machine Learning Engineer
     company: Surgical Safety Technologies
     company_url: ''
     company_logo: 
     location: Toronto, ON
-    date_start: 'May 1, 2019'
-    date_end: 'May 1, 2020'
+    date_start: ''
+    date_end: ''
     description:
 
 design:
