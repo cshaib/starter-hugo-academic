@@ -20,7 +20,7 @@ social:
       header: false
     icon_pack: far
     icon: Envelope
-    link: chantal.shaib@gmail.com
+    link: mailto:shaib.c@northeastern.edu
 organizations:
   - name: Northeastern University
     url: https://www.khoury.northeastern.edu/
