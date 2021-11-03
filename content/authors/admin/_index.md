@@ -1,7 +1,7 @@
 ---
 role: "PhD Student, Computer Science "
 avatar_filename: avatar.jpg
-bio: shaib [dot] c [at] northeastern [dot] edu
+bio: ""
 interests: []
 social:
   - icon: twitter
@@ -16,6 +16,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chantal-s-088b24109/
+  - display:
+      header: false
+    icon_pack: far
+    icon: envelope
+    link: shaib.c@northeastern.edu
 organizations:
   - name: Northeastern University
     url: https://www.khoury.northeastern.edu/
