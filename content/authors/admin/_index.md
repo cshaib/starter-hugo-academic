@@ -1,7 +1,7 @@
 ---
 role: "PhD Student, Computer Science "
 avatar_filename: avatar.jpg
-bio: ""
+bio: shaib [dot] c [at] northeastern [dot] edu
 interests: []
 social:
   - icon: twitter
