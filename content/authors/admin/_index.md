@@ -18,8 +18,8 @@ social:
     link: https://www.linkedin.com/in/chantal-s-088b24109/
   - display:
       header: false
-    icon_pack: far
-    icon: Envelope
+    icon_pack: fas
+    icon: envelope
     link: mailto:shaib.c@northeastern.edu
 organizations:
   - name: Northeastern University
