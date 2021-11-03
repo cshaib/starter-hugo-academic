@@ -4,6 +4,11 @@ avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
+  - display:
+      header: false
+    icon_pack: fas
+    icon: envelope
+    link: mailto:shaib.c@northeastern.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ChantalShaib
@@ -16,11 +21,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chantal-s-088b24109/
-  - display:
-      header: false
-    icon_pack: fas
-    icon: envelope
-    link: mailto:shaib.c@northeastern.edu
 organizations:
   - name: Northeastern University
     url: https://www.khoury.northeastern.edu/
