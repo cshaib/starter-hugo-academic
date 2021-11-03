@@ -19,7 +19,7 @@ social:
   - display:
       header: false
     icon_pack: far
-    icon: envelope
+    icon: Envelope
     link: shaib.c@northeastern.edu
 organizations:
   - name: Northeastern University
