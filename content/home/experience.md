@@ -27,7 +27,7 @@ experience:
     company_url: 'www.hercodecamp.com'
     company_logo: 
     location: Toronto, ON
-    date_start: '2018-12-1'
+    date_start: ''
     date_end: ''
     description:
   - title: Research Intern
