@@ -44,4 +44,4 @@ I am a PhD student at the [Khoury College of Computer Sciences](https://www.kho
 
 I received my MSc in Applied Computing at the [University of Toronto](https://mscac.utoronto.ca/), where I worked on NLP problems in clinical contexts, and was advised by [Frank Rudzicz](http://www.cs.toronto.edu/~frank/). During that time, I was awarded the [Mitacs Accelerate Fellowship](https://www.mitacs.ca/en/programs/accelerate/fellowship) for my work in extending AI into operating rooms. Before that, I received my BSc in Neuroscience at [Carleton University](https://carleton.ca/neuroscience/).
 
-Outside of research, I am a director and Chief Strategy Officer at [HER CODE CAMP](http://hercodecamp.com/), a not-for-profit organization that aims to empower under-represented communities in technology. 
+Outside of research, I am a director and Chief Strategy Officer at [HER CODE CAMP](http://hercodecamp.com/), a not-for-profit organization that aims to empower under-represented communities in technology. I am also a registered yoga teacher (200hr) 🧘🏻‍♀️ and film enthusiast 📸.
