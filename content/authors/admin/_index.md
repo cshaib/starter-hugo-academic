@@ -18,6 +18,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chantal-s-088b24109/
+   - icon: fa-light
+     icon_pack: fas
+     link http://chantal.shaib.info/resume 
 organizations:
   - name: Northeastern University
     url: https://www.khoury.northeastern.edu/
