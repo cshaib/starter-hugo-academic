@@ -18,9 +18,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chantal-s-088b24109/
-  - icon: file
-    icon_pack: fas
-    link: https://drive.google.com/file/d/1ieFju-O8PF37DvrtCWxwClMuYHkiWrLb/view?usp=sharing
+  [- icon: file]: #
+    [icon_pack: fas]: #
+    [link: https://drive.google.com/file/d/1ieFju-O8PF37DvrtCWxwClMuYHkiWrLb/view?usp=sharing]]: #
 organizations:
   - name: Northeastern University
     url: https://www.khoury.northeastern.edu/
@@ -40,8 +40,8 @@ highlight_name: true
 title: Chantal Shaib
 email: ""
 ---
-I am a PhD student at the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), advised by [Byron Wallace](https://www.byronwallace.com/). My research is currently motivated by trying to measure and understand factuality in generative language models, and more generally, parsing through the vast amount of biomedical literature using natural language processing systems.
+I am a PhD student at the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), advised by [Byron Wallace](https://www.byronwallace.com/). My research is currently motivated by trying understand factuality in generative language models, and more generally, parsing through the vast amount of biomedical literature using natural language processing systems.
 
-I received my MSc in Applied Computing at the [University of Toronto](https://mscac.utoronto.ca/), where I worked on NLP problems in clinical contexts, and was advised by [Frank Rudzicz](http://www.cs.toronto.edu/~frank/). During that time, I was awarded the [Mitacs Accelerate Fellowship](https://www.mitacs.ca/en/programs/accelerate/fellowship) for my work in extending AI into operating rooms. Before that, I received my BSc in Neuroscience at [Carleton University](https://carleton.ca/neuroscience/).
+I received my MSc in Applied Computing at the [University of Toronto](https://mscac.utoronto.ca/) where I was advised by [Frank Rudzicz](http://www.cs.toronto.edu/~frank/). During that time, I was awarded the [Mitacs Accelerate Fellowship](https://www.mitacs.ca/en/programs/accelerate/fellowship) for my work in extending AI into operating rooms. Before that, I received my BSc in Neuroscience at [Carleton University](https://carleton.ca/neuroscience/).
 
 Outside of research, I am a director and Chief Strategy Officer at [HER CODE CAMP](http://hercodecamp.com/), a not-for-profit organization that aims to empower under-represented communities in technology. I am also a registered yoga teacher (200hr) 🧘🏻‍♀️ and film camera enthusiast 📸.
